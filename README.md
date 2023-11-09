@@ -2,8 +2,8 @@
 This project was one of my first game projects created in Unity, with the purpose of learning more about the engine, different game mechanics and simple enemy AI.<br/>
 
 There are 2 different builds in this repo :
-"\Stick Engine Dungeon generator\BasicPlatformer2D.exe" is the dungeon generator scene with a couple of rooms arranged to make a map.<br/>
-"\Stick Engine Dungeon generator\Test levels\BasicPlatformer2D.exe" has a series of test stages with all of the current features available in this demo.<br/>
+* "\Stick Engine Dungeon generator\BasicPlatformer2D.exe" is the dungeon generator scene with a couple of rooms arranged to make a map.<br/>
+* "\Stick Engine Dungeon generator\Test levels\BasicPlatformer2D.exe" has a series of test stages with all of the current features available in this demo.<br/>
 <br/>
 Keybinds:<br/>
 R - Restart the stage.<br/>
